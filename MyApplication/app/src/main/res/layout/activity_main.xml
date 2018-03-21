@@ -19,7 +19,7 @@
         android:layout_height="wrap_content"
         android:ems="10"
         android:inputType="text"
-        android:text="@string/edit_sex"/>
+        android:hint="@string/edit_sex"/>
 
     <TextView
         android:layout_width="match_parent"
@@ -33,7 +33,7 @@
         android:layout_height="wrap_content"
         android:ems="10"
         android:inputType="text"
-        android:text="@string/edit_age"/>
+        android:hint="@string/edit_age"/>
 
     <Button
         android:id="@+id/button"
