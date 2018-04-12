@@ -1,0 +1,49 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\V3-372.ASPIRE-V3-372-5\\Desktop\\SampleCode-Unit018\\hw42\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-land\\values-land.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\V3-372.ASPIRE-V3-372-5\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\555e0b06f77e3500dbcace8cdd87d6c0\\res\\values-land\\values-land.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,125,189,260",
+                        "endColumns": "69,63,70,67",
+                        "endOffsets": "120,184,255,323"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\V3-372.ASPIRE-V3-372-5\\Desktop\\Android\\AndroidStudioProjects\\hw42\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-land\\values-land.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\V3-372.ASPIRE-V3-372-5\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\555e0b06f77e3500dbcace8cdd87d6c0\\res\\values-land\\values-land.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,125,189,260",
+                        "endColumns": "69,63,70,67",
+                        "endOffsets": "120,184,255,323"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\V3-372.ASPIRE-V3-372-5\\Desktop\\Android\\hw4.2\\hw42\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-land\\values-land.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\V3-372.ASPIRE-V3-372-5\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\555e0b06f77e3500dbcace8cdd87d6c0\\res\\values-land\\values-land.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,125,189,260",
+                        "endColumns": "69,63,70,67",
+                        "endOffsets": "120,184,255,323"
+                    }
+                }
+            ]
+        }
+    ]
+}
