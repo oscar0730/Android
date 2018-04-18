@@ -1,6 +1,40 @@
 {
     "logs": [
         {
+            "outputFile": "C:\\Users\\V3-372.ASPIRE-V3-372-5\\Desktop\\Android\\hw5\\hw5\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v16\\values-v16.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\V3-372.ASPIRE-V3-372-5\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\555e0b06f77e3500dbcace8cdd87d6c0\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "223"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "121",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "289"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\V3-372.ASPIRE-V3-372-5\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\2260f0d909b9807f38608a1b18fdafdc\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                }
+            ]
+        },
+        {
             "outputFile": "C:\\Users\\V3-372.ASPIRE-V3-372-5\\Desktop\\Android\\AndroidStudioProjects\\HW5\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v16\\values-v16.xml",
             "map": [
                 {
