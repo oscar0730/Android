@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:weightSum="1">
+
+    <ImageSwitcher
+        android:id="@+id/imgSwitcher"
+        android:layout_width="313dp"
+        android:layout_height="150dp"
+        android:layout_gravity="center"
+        android:layout_marginBottom="8dp"
+        android:layout_marginTop="8dp"
+        android:layout_weight="0.6"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/gridView"
+        tools:layout_editor_absoluteX="21dp" />
+
+    <GridView
+        android:id="@+id/gridView"
+        android:layout_width="368dp"
+        android:layout_height="150dp"
+        android:layout_weight="0.4"
+        android:numColumns="4"
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="0dp" />
+
+</android.support.constraint.ConstraintLayout>
