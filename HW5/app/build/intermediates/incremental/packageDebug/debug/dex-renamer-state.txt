@@ -1,0 +1,4 @@
+#Wed Apr 18 17:12:11 CST 2018
+base.0=C\:\\Users\\V3-372.ASPIRE-V3-372-5\\Desktop\\Android\\AndroidStudioProjects\\HW5\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
