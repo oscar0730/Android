@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Hw8:劉聖鴻</string>
+    <array name="diet">
+        <item>Breakfast</item>
+        <item>Lunch</item>
+        <item>Dinner</item>
+    </array>
+</resources>
