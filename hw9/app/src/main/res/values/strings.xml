@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Hw9:劉聖鴻</string>
+    <array name="diet">
+        <item>Breakfast</item>
+        <item>Lunch</item>
+        <item>Dinner</item>
+    </array>
+    <string name="pressScreen"></string>
+    <string name="BackgroundMusic">背景音樂</string>
+    <string name="PlayBackgroundMusic">播放背景音樂</string>
+    <string name="StopBackgroundMusic">停止播放背景音樂</string>
+    <string name="About">關於這個程式...</string>
+    <string name="Exit">結束</string>
+</resources>

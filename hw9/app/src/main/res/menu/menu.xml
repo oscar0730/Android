@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="@string/BackgroundMusic"
+        android:icon="@android:drawable/ic_media_ff" >
+        <menu>
+            <item android:id="@+id/menuItemPlayBackgroundMusic"
+                android:title="@string/PlayBackgroundMusic" />
+            <item android:id="@+id/menuItemStopBackgroundMusic"
+                android:title="@string/StopBackgroundMusic" />
+        </menu>
+    </item>
+    <item android:id="@+id/menuItemAbout"
+        android:title="@string/About"
+        android:icon="@android:drawable/ic_dialog_info" />
+    <item android:id="@+id/menuItemExit"
+        android:title="@string/Exit"
+        android:icon="@android:drawable/ic_menu_close_clear_cancel" />
+</menu>
