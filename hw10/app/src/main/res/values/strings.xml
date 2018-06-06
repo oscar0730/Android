@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">作業十:劉聖鴻</string>
+    <string-array name="type">
+        <item>mobile</item>
+        <item>home</item>
+        <item>office</item>
+    </string-array>
+</resources>
