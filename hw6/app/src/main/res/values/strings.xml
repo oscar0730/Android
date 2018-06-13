@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">作業六:劉聖鴻</string>
+
+    <string name="result">判定輸贏：</string>
+    <string name="total_set">全部局數：</string>
+    <string name="player_win_set">玩家贏：</string>
+    <string name="comupter_win_set">電腦贏：</string>
+    <string name="draw">平手：</string>
+
+    <string name="btn_show_result">顯示輸贏結果</string>
+    <string name="btn_hidden_result">隱藏輸贏結果</string>
+
+</resources>
